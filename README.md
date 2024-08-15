@@ -4,7 +4,8 @@ Zielsetzung dieses Repository ist es, die Codeprojekte aus der Dissertation "Mas
 
 ## Pearson-Korrelationsmatrix 
 - "Filename.txt"
-- Applikation auf den Extrusions- und Mischerdatensatz, um ... 
+- Applikation auf den Extrusions- und Mischerdatensatz, um die Pearson-Koeffizienten für die jeweiligen Ein- und Ausgangsgrößen zu berechnen.
+- Ein Pearson-Korrelationswert, der sich in der Nähe von 1 befindet, bildet in Abhängigkeit des Vorzeichens eine starke lineare Korrelation ab, wobei ein Wert um 0 keine oder eine schwache Korrelation aufzeigt.
 
 ## Feature Selection
 - "Filename.txt"
